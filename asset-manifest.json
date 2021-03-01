@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ZTM_React_Async_State/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ZTM_React_Async_State/static/js/main.1af78872.chunk.js",
+    "main.js.map": "/ZTM_React_Async_State/static/js/main.1af78872.chunk.js.map",
+    "runtime-main.js": "/ZTM_React_Async_State/static/js/runtime-main.0ebf18a5.js",
+    "runtime-main.js.map": "/ZTM_React_Async_State/static/js/runtime-main.0ebf18a5.js.map",
+    "static/js/2.042ab56b.chunk.js": "/ZTM_React_Async_State/static/js/2.042ab56b.chunk.js",
+    "static/js/2.042ab56b.chunk.js.map": "/ZTM_React_Async_State/static/js/2.042ab56b.chunk.js.map",
+    "static/js/3.729fee69.chunk.js": "/ZTM_React_Async_State/static/js/3.729fee69.chunk.js",
+    "static/js/3.729fee69.chunk.js.map": "/ZTM_React_Async_State/static/js/3.729fee69.chunk.js.map",
+    "index.html": "/ZTM_React_Async_State/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ZTM_React_Async_State/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.042ab56b.chunk.js.LICENSE.txt": "/ZTM_React_Async_State/static/js/2.042ab56b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ZTM_React_Async_State/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ebf18a5.js",
+    "static/js/2.042ab56b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1af78872.chunk.js"
+  ]
+}
